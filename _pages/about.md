@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "你好，我是张佳文"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# 你好，我是张佳文
 
 欢迎访问我的个人主页！我是一名传媒专业的学生，专注于内容创作与数字传播。
 
