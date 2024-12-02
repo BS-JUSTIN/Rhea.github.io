@@ -212,19 +212,20 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
   publications:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+    output: false  # 禁用 Publications 集合
   talks:
-    output: false
-    permalink: /:collection/:path/
-
+    output: false  # 禁用 Talks 集合
+  teaching:
+    output: false  # 禁用 Teaching 集合
+  portfolio:
+    output: false  # 禁用 Portfolio 集合
+  posts:  # 默认 Blog Posts 集合
+    output: false  # 禁用 Blog Posts 集合
+  cv:
+    output: false  # 禁用 CV 集合
+  guide:
+    output: false  # 禁用 Guide 集合
 
 # These settings control how pages and collections are included in the site
 defaults:
