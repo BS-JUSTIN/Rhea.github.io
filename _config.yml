@@ -21,7 +21,7 @@ repository               : "BS-JUSTIN/Rhea.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # 头像
+  avatar           : "https://s21.ax1x.com/2024/12/02/pAIo2wD.jpg" # 头像
   name             : "Rhea Zhang"
   pronouns         : "she" 
   bio              : "个人介绍"
