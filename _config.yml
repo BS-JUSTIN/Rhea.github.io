@@ -26,9 +26,9 @@ author:
   pronouns         : "she" 
   bio              : "个人介绍"
   location         : "住址"
-  employer         : "Psb"
+  employer         : "PSB Academy"
   uri              : # URL
-  email            : "张佳文的邮箱" 
+  email            : "1557602568@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Rhea"
+  github           : "BS-JUSTIN"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -68,7 +68,7 @@ author:
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
-  weibo            : "啊Rhea" #Username
+  weibo            : "https://weibo.com/u/2845952621" #Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
