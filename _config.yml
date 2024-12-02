@@ -12,7 +12,7 @@ title                    : "我的个人主页"
 title_separator          : "-"
 name                     : &name "张佳文"
 description              : &description "个人介绍"
-url                      : https://bs-justin.github.io/Rhea.github.io/"
+url                      : https://bs-justin.github.io/Rhea.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BS-JUSTIN/Rhea.github.io"
 
