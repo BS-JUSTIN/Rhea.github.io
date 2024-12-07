@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "我的个人主页"
+title                    : "My personal homepage"
 title_separator          : "-"
-name                     : &name "张佳文"
+name                     : &name "Zhang Jiawen"
 description              : &description "个人介绍"
 url                      : https://bs-justin.github.io/Rhea.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "https://s21.ax1x.com/2024/12/02/pAIo2wD.jpg" # 头像
   name             : "Rhea Zhang"
-  pronouns         : "she" 
-  bio              : "个人介绍"
-  location         : "住址"
+  pronouns         : #"she" 
+  bio              : "A Media Studies student at Psb Academy"
+  location         : #"住址"
   employer         : "PSB Academy"
   uri              : # URL
   email            : "1557602568@qq.com" 
