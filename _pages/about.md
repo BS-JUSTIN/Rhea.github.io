@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "你好，我是张佳文"
+title: "Hello, I'm Zhang Jiawen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hello, I'm Zhang Jiawen
 
 Welcome to my profile! I'm a Media Studies student at Psb Academy with a concentration in Content Creation.
 
