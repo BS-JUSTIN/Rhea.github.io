@@ -7,48 +7,48 @@ redirect_from:
   - /about.html
 ---
 
-欢迎访问我的个人主页！我是一名传媒专业的学生，专注于内容创作与数字传播。
+# Hello, I'm Zhang Jiawen
+
+Welcome to my profile! I'm a Media Studies student at Psb Academy with a concentration in Content Creation.
 
 ---
 
-## 我的技能
+## My Skills
 
-- **视频制作**：熟练掌握Adobe Premiere Pro和Final Cut Pro，能够独立完成视频的拍摄与后期制作。
-- **社交媒体运营**：擅长使用社交平台（如微博、微信公众号、TikTok）进行内容推广和品牌建设。
-- **写作与编辑**：能够编写新闻稿、博客文章以及进行内容编辑。
-- **数据分析**：熟悉使用Google Analytics、Excel等工具分析数据，并进行相应的优化。
-
----
-
-## 项目经验
-
-### 1. **短视频创作与推广**
-- 描述：为某品牌制作了一系列宣传视频，并通过TikTok进行推广，视频在短期内达到了50万+的观看量。
-- 技术：Adobe Premiere Pro、TikTok Analytics
-
-### 2. **微信公众号运营**
-- 描述：负责运营一个个人品牌的微信公众号，策划并执行每周发布内容，累计粉丝达到5千人。
-- 技术：Canva、Hootsuite
+- **Video Production**: Proficient in Adobe Premiere Pro, capable of independently handling video shooting and post-production.
+- **Social Media Management**: Skilled in using social platforms (such as Weibo, WeChat Official Accounts, TikTok) for content promotion and brand building.
+- **Writing and Editing**: Able to write press releases, blog posts, and perform content editing.
+- **Data Analysis**: Familiar with tools such as Google Analytics and Excel for data analysis and optimization.
 
 ---
 
-## 教育背景
+## Project Experience
 
-- **中国传媒大学** | 传媒与传播学专业 | 2022 - 2024
+### 1. **Short Video Creation and Promotion**
+- Description: Produced a series of promotional videos for a brand and promoted them on TikTok, achieving over 50,000 views in a short period.
 
----
-
-## 兴趣爱好
-
-- 电影与纪录片
-- 社交媒体研究
-- 写作与阅读
+### 2. **WeChat Official Account Management**
+- Description: Managed a personal brand's WeChat Official Account, planned and executed weekly content releases, accumulating over 5,000 followers.
 
 ---
 
-## 联系我
+## Educational Background
 
-- **邮箱**：[1557602568@qq.com](mailto:1557602568@qq.com)
+- **Some University** | Communication University of China | 2022 - 2024
 
+---
+
+## Interests
+
+- Movies and Documentaries
+- Social Media Research
+- Writing and Reading
+-   Photography and Post-production
+
+---
+
+## Contact Me
+
+- **Email**: [1557602568@qq.com](mailto:example@example.com)
 
 ---
