@@ -4,4 +4,4 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-![Spicy Honey](image/spicy%20honey/1.jpg)
+![](images/spicy/1.jpg)
