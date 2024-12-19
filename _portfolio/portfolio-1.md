@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-![](spicy%20honey/1.jpg)
+![](https://s21.ax1x.com/2024/12/19/pAOiwQJ.jpg)
 ![Spicy honey](spicy%20honey/2.jpg)
 ![Spicy honey](spicy%20honey/3.jpg)
 ![Spicy honey](spicy%20honey/4.jpg)
