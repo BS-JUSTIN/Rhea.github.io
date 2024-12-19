@@ -5,13 +5,3 @@ collection: portfolio
 ---
 
 ![](https://s21.ax1x.com/2024/12/19/pAOiwQJ.jpg)
-![Spicy honey](spicy%20honey/2.jpg)
-![Spicy honey](spicy%20honey/3.jpg)
-![Spicy honey](spicy%20honey/4.jpg)
-![Spicy honey](spicy%20honey/5.jpg)
-![Spicy honey](spicy%20honey/6.jpg)
-![Spicy honey](spicy%20honey/7.jpg)
-![Spicy honey](spicy%20honey/8.jpg)
-![Spicy honey](spicy%20honey/9.jpg)
-![Spicy honey](spicy%20honey/10.jpg)
-![Spicy honey](spicy%20honey/11.jpg)
