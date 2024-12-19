@@ -9,6 +9,5 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-    - title: "Group Report"
-    url: /talks/   
- 
+  - title: "Group Report"
+    url: /talks/
