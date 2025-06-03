@@ -12,13 +12,10 @@ redirect_from:
 Welcome to my profile! I'm a Media Studies student at Psb Academy with a concentration in Content Creation.
 
 ---
-## Report
+## University course works
 - **Self-group Report**: 
 
 [Group12 Podcast reflections.pdf](/Rhea.github.io/assets/Group12-Podcast-reflections.pdf)
-
-
-- **Three Reports**: 
 
 [Group3 Film Director.pdf](/Rhea.github.io/assets/group/Group3-Film-Director.pdf)
 
